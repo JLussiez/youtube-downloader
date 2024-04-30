@@ -11,7 +11,7 @@ Python program for downloading Youtube videos on format mp3/mp4 with quality sel
 
 ## Installation
 
-You can install it with git clone :
+You can download it with git clone :
 
 ```bash
 https://github.com/JLussiez/youtube-downloader.git
